@@ -2,7 +2,7 @@
 
 ### Building better systems through technology.
 
-Designing and developing technology that strengthens financial systems, digital infrastructure, and intelligent platforms through thoughtful engineering and purposeful product design.
+Designing technology that strengthens financial systems, digital infrastructure, and intelligent platforms through thoughtful engineering and purposeful product development.
 
 ---
 
@@ -10,23 +10,28 @@ Designing and developing technology that strengthens financial systems, digital 
 
 - Financial Technology
 - Artificial Intelligence
-- Product Design
-- Web Applications
+- Digital Infrastructure
+- Product Engineering
 
 ---
 
-### Selected Projects
+#### Selected Projects
 
-📊 Phantom Capital Dashboard
+📊 **Phantom Capital Dashboard**  
+A financial analytics dashboard exploring data visualization, portfolio monitoring, and intuitive decision-support interfaces for modern investment management.
 
-💳 PINPAY
+💳 **PINPAY**  
+A fintech platform concept focused on simplifying digital payments, investment accessibility, and financial services through a unified user experience.
 
-🏠 Agent-Free Rental Platform
+🏠 **Agent-Free Rental Platform**  
+Connecting landlords and tenants directly through a transparent digital marketplace designed to reduce unnecessary intermediary costs and improve housing accessibility.
 
-👕 Fashion Store Interface
+👕 **Fashion Store Interface**  
+An e-commerce storefront exploring modern retail experiences, intuitive product discovery, and responsive shopping journeys across devices.
 
-💰 Payment Application UI
+💰 **Payment Application UI**  
+A digital payment interface designed to streamline everyday transactions through a secure, accessible, and user-centered financial experience.
 
 ---
 
-> Every project begins with a problem worth solving.
+> Technology is most valuable when it solves meaningful problems.
