@@ -2,16 +2,7 @@
 
 ### Building better systems through technology.
 
-Designing technology that strengthens financial systems, digital infrastructure, and intelligent platforms through thoughtful engineering and purposeful product development.
-
----
-
-### Current Focus
-
-- Financial Technology
-- Artificial Intelligence
-- Digital Infrastructure
-- Product Engineering
+Designing financial infrastructure, intelligent platforms, and digital products that prioritize usability, scalability, and purposeful engineering.
 
 ---
 
@@ -34,4 +25,13 @@ A digital payment interface designed to streamline everyday transactions through
 
 ---
 
+### Current Focus
+
+- Financial Technology
+- Artificial Intelligence
+- Digital Infrastructure
+- Product Engineering
+- Software Development
+  
+---
 > Technology is most valuable when it solves meaningful problems.
