@@ -1,46 +1,32 @@
-# Hi, I'm Excel Mark 👋
+# Quantcoder
 
-## Self-Taught Software Developer
+### Building better systems through technology.
 
-I'm a self-taught software developer from Nigeria passionate about building modern web applications, financial technology solutions, and digital products.
-
-I'm currently learning JavaScript while strengthening my frontend development skills through practical projects.
+Designing and developing technology that strengthens financial systems, digital infrastructure, and intelligent platforms through thoughtful engineering and purposeful product design.
 
 ---
 
-## 🚀 Current Tech Stack
+### Current Focus
 
-- HTML5
-- CSS3
-- JavaScript (Learning)
-- Git
-- GitHub
-
----
-
-## 📌 Featured Projects
-
-- 💳 PINPAY – FinTech Interface
-- 📊 Phantom Capital Dashboard
-- 🏠 Agent-Free Rental Platform
-- 👕 Fashion Store UI
-- 💰 Payment App Interface
+- Financial Technology
+- Artificial Intelligence
+- Product Design
+- Web Applications
 
 ---
 
-## 🎯 Current Goal
+### Selected Projects
 
-Become a Full-Stack Software Engineer while building impactful technology products.
+📊 Phantom Capital Dashboard
+
+💳 PINPAY
+
+🏠 Agent-Free Rental Platform
+
+👕 Fashion Store Interface
+
+💰 Payment Application UI
 
 ---
 
-## 📚 Currently Learning
-
-- JavaScript
-- DOM Manipulation
-- APIs
-- Responsive Web Design
-
----
-
-> "Building better systems through technology."
+> Every project begins with a problem worth solving.
