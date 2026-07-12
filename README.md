@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Excel Mark 👋
 
-<!--
-**Quantcoder-135/Quantcoder-135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Self-Taught Software Developer
 
-Here are some ideas to get you started:
+I'm a self-taught software developer from Nigeria passionate about building modern web applications, financial technology solutions, and digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning JavaScript while strengthening my frontend development skills through practical projects.
+
+---
+
+## 🚀 Current Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Learning)
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+- 💳 PINPAY – FinTech Interface
+- 📊 Phantom Capital Dashboard
+- 🏠 Agent-Free Rental Platform
+- 👕 Fashion Store UI
+- 💰 Payment App Interface
+
+---
+
+## 🎯 Current Goal
+
+Become a Full-Stack Software Engineer while building impactful technology products.
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- DOM Manipulation
+- APIs
+- Responsive Web Design
+
+---
+
+> "Building better systems through technology."
