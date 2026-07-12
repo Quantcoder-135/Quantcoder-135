@@ -6,7 +6,7 @@ Designing financial infrastructure, intelligent platforms, and digital products 
 
 ---
 
-#### Selected Projects
+#### Featured Projects
 
 📊 **Phantom Capital Dashboard**  
 A financial analytics dashboard exploring data visualization, portfolio monitoring, and intuitive decision-support interfaces for modern investment management.
